@@ -1,4 +1,6 @@
-cript that prints all characters of a Star Wars movie:
+#!/usr/bin/node
+/*
+ * script that prints all characters of a Star Wars movie:
 The first argument is the Movie ID - example: 3 = “Return of the Jedi”
 Display one character name by line in the same order of the list “characters” in the /films/ response
 You must use the Star wars API
